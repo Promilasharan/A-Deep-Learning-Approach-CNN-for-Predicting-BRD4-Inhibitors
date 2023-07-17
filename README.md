@@ -6,8 +6,6 @@
 - Understanding the functions and mechanisms of BRD4 has opened up new avenues of research in the fields of epigenetics and cancer biology, making it a critical protein in both basic science and translational medicine.
 # A Deep Learning Approach (CNN) for Predicting BRD4 Inhibitors
 
-![BRD4 Inhibitors](https://your_image_url_here.jpg)  
-*[Image Source](https://www.example.com)*
 
 ## Overview
 
@@ -61,7 +59,3 @@ To run the code in this project, you need the following dependencies:
 - Pandas
 - Numpy
 
-You can install the required packages using the following command:
-
-```bash
-pip install tensorflow rdkit-pypi scikit-learn pandas numpy
