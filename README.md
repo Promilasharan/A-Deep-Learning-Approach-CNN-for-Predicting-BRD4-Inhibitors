@@ -36,7 +36,7 @@ Due to licensing and copyright restrictions, we cannot provide the raw data in t
 
 ### Data Preprocessing
 
-Before training the CNN model, the raw data from ChEMBL underwent several preprocessing steps to remove duplicates, handle missing values, and extract molecular fingerprints for use in the deep learning model. Details of the data preprocessing can be found in the Jupyter Notebooks under the "notebooks" directory.
+Before training the CNN model, the raw data from ChEMBL underwent several preprocessing steps to remove duplicates, handle missing values, and extract molecular fingerprints for use in the deep learning model. 
 
 Please note that due to data privacy and licensing restrictions, the dataset used in this project may differ from the original ChEMBL data, as it was modified to ensure compliance with usage terms and conditions.
 
